@@ -11,8 +11,9 @@ namespace gitVSOverview
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            // 
-            Console.WriteLine("Hello!");
+
+            // Documentation
+            // https://docs.microsoft.com/pt-br/vsts/git/
         }
     }
 }
